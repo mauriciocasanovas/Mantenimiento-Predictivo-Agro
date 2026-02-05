@@ -1,6 +1,4 @@
-=======================================================================================
 SISTEMA DE MANTENIMIENTO PREDICTIVO - SECTOR AGRO (MODELO IA)
-=======================================================================================
 
 DESCRIPCIÓN:
 Desarrollo de una solucion de Inteligencia Artificial para el sector de maquinaria 
@@ -46,5 +44,3 @@ VALOR AGREGADO:
   evidentes mediante analisis de multiples variables simultaneas.
 - Enfoque en Eficiencia Operativa: Orientado a la reduccion de costos por 
   paradas imprevistas en periodos criticos de produccion.
-
-=======================================================================================
